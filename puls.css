@@ -1,0 +1,47 @@
+/* This file is not in the html folder because if it was it could not be read because of the .htaccess settings */
+
+body {
+	margin: 32px auto 0px auto;
+	position: relative;
+	width: 400px;
+	background: #FFFFFF;
+	text-align: center;
+	font-family: Helvetica, Arial, Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	color: #000000;
+}
+
+table,
+h1,
+p {
+	width: 400px;
+	text-align: left;
+}
+
+table,
+p {
+	border-top: 1px dotted #20AAEA;
+	border-bottom: 1px solid #20AAEA;
+	padding: 0 0 8px 0;
+}
+
+td {
+	margin: 0;
+	padding: 8px 0 0 0;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 32px;
+	margin: 0;
+	padding: 4px 0 4px 0;
+	color: #20AAEA;
+	border-top: 1px solid #20AAEA;
+}
+
+a {
+	color: #20AAEA;
+	text-decoration: underline;
+}
